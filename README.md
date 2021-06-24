@@ -1,4 +1,4 @@
-# <h2 align="center">🖥 Python-Calculator</h2>
+# <h2 align="center">🖥 Consulta-DNS</h2>
 ---------------------------------------------------------------------------
 NÃO ME RESPONSABILIZO POR USO INADEQUADO
 
