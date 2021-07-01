@@ -2,7 +2,7 @@
 ---------------------------------------------------------------------------
 NÃO ME RESPONSABILIZO POR USO INADEQUADO
 
-Esta é uma ferramenta de consulta DNS, feita totalmente em python que serve apenas para curiosidade.
+Esta é uma ferramenta de consulta DNS, feita totalmente em python que serve apenas para  estudo pessoal.
 Com ela você consegue puxar:
 
 - [x] HOST
