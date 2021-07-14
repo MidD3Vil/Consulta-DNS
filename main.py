@@ -6,6 +6,8 @@ import socket
 import os
 print('')
 
+os.system('cls')
+
 restart = 'S'
 
 while restart == 'S':
