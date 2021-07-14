@@ -6,7 +6,10 @@ import socket
 import os
 print('')
 
-os.system('cls')
+if os.name == 'nt':
+    os.system('cls')
+else:
+    os.system('clear')
 
 restart = 'S'
 
