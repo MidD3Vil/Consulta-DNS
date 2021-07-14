@@ -6,14 +6,13 @@ import socket
 import os
 print('')
 
-if os.name == 'nt':
-    os.system('cls')
-else:
-    os.system('clear')
-
 restart = 'S'
 
 while restart == 'S':
+    if os.name == 'nt':
+        os.system('cls')
+    else:
+        os.system('clear')
     print('#####################')
     time.sleep(0.5)
     print('Consulta de IP por DNS')
